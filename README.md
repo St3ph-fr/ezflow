@@ -1,4 +1,4 @@
-# ezFlow, approval workflow and verion saving
+# ezFlow, approval workflow and version saving
 
 ezFlow is an add-on for Google Drive that will allow you to save versions and create approval worflow directly within  your document. ezFlow is designed for :
 
